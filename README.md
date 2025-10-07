@@ -28,7 +28,7 @@ Azure, AWS, Docker, CI/CD—you name it. I make sure ML models don’t just trai
 - **Languages & Frameworks**: Python, PyTorch, TensorFlow, Hugging Face, SQL, C++
 - **DevOps & Cloud**: Azure, AWS, Docker, Git
 - **Data Tools**: Pandas, NumPy, Matplotlib, Scikit-Learn, Spark
-- **NLP**: LLMs, LangChain, Vector Databases
+- **NLP**: LLMs, LangChain, LangGraph, Vector Databases
 - **CV**: CNNs, Vision Transformers, YOLOv5, U-Net
 
 
