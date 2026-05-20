@@ -1,6 +1,6 @@
 # Hi, I'm Aida Mohammadshahi
 
-I’m a machine learning developer and researcher passionate about building intelligent systems. My focus areas include **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, and **efficient model training and deployment** with a strong eye on **fairness** and **scalability**. I combine strong research foundations with hands-on experience in deploying models and pipelines across academic and industrial settings.
+I’m a machine learning developer. My focus areas include **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, and **efficient model training and deployment** with a strong eye on **fairness** and **scalability**. I combine strong research foundations with hands-on experience in deploying models and pipelines across academic and industrial settings.
 
 
 ## What I Do
