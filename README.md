@@ -1,6 +1,6 @@
 # Aida Mohammadshahi
 
-Machine Learning Developer with expertise in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, and **efficient model training and deployment**, with a strong focus on **fairness** and **scalability**. A blend of rigorous research foundations and hands-on experience deploying models and pipelines across academic and industrial environments.
+Machine Learning Developer with expertise in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, and **efficient model training and deployment**, with a strong focus on **fairness** and **scalability**. A blend of research foundations and hands-on experience deploying models and pipelines across academic and industrial environments.
 
 ## Areas of Expertise
 
